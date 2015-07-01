@@ -53,9 +53,9 @@ public partial class Index : System.Web.UI.Page
             //String s = Session["User"];
             Object o = Session["User"]; ;
             User u = (User)o;
-            //if(u != null) this.LabelMeldung.Text = "Sie erhalten eine email an: " +  u.Email;
-            //else this.LabelMeldung.Text = "Erst registrieren";
-            this.LabelMeldung.Text = "Sie erhalten eine email an: " +  this.TextBoxEmail.Text;
+            if (u != null) this.LabelMeldung.Text = "Sie erhalten eine email an: " + u.Email;
+            else this.LabelMeldung.Text = "Erst registrieren";
+            //this.LabelMeldung.Text = "Sie erhalten eine email an: " +  this.TextBoxEmail.Text;
             
         }
     }
