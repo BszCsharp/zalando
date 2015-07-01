@@ -1,0 +1,49 @@
+﻿       .style1 {
+            width: 789px;
+            height: 97px;
+            float: left;
+        }
+
+        html {
+            height: 100%;
+        }
+
+        body {
+            height: 100%;
+        }
+
+        #outerDiv {
+            margin: 0 auto;
+            padding: 0;
+            width: 790px;
+            min-height: 100%;
+            background-image: url('Images/Background.jpg');
+        }
+
+        #footer {
+            margin: 0 auto;
+            padding: 0;
+            clear: both;
+            width: 790px;
+            font-size: xx-small;
+            text-align: center;
+            padding: 4px 0px 4px 0;
+            background-color: #336699;
+            color: #FFFFFF;
+        }
+
+        #mainColumn {
+            float: right;
+            padding: 40px ;
+            margin: 20px auto;
+            padding: 5px;
+            min-height: 80%;
+            width: 570px;
+            background-color: White;
+        }
+       #header
+       {
+          
+            padding: 0px;
+            margin: 5px 5px 5px 5px;
+       }
