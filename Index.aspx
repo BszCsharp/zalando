@@ -38,8 +38,14 @@
 
                             <tr>
                                 <td>
-                                    <asp:Button ID="ButtonSpeichern" runat="server" Text="speichern" OnClick="ButtonSpeichern_Click" /></td>
-                                <td></td>
+                                    <asp:Button ID="ButtonSpeichern" runat="server" Text="anmelden" OnClick="ButtonSpeichern_Click" /></td>
+                                <td>
+                                    <asp:Button ID="ButtonRegister" runat="server" Text="Registrieren" OnClick="ButtonRegister_Click" /></td>
+                            </tr>
+                            <tr>
+                                <td colspan ="2">
+                                    <asp:Label ID="LabelMeldungRegister" runat="server" Text=""></asp:Label>
+                                </td>
                             </tr>
 
                         </table>
