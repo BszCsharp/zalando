@@ -1,0 +1,5 @@
+C:\Users\Reinhold\Documents\Visual Studio 2013\Projects\AufgabeBestellung\DatanTransfer\bin\Debug\DatanTransfer.dll
+C:\Users\Reinhold\Documents\Visual Studio 2013\Projects\AufgabeBestellung\DatanTransfer\bin\Debug\DatanTransfer.pdb
+C:\Users\Reinhold\Documents\Visual Studio 2013\Projects\AufgabeBestellung\DatanTransfer\obj\Debug\DatanTransfer.dll
+C:\Users\Reinhold\Documents\Visual Studio 2013\Projects\AufgabeBestellung\DatanTransfer\obj\Debug\DatanTransfer.pdb
+C:\Users\Reinhold\Documents\Visual Studio 2013\Projects\AufgabeBestellung\DatanTransfer\bin\Debug\DatanTransfer.dll.config
