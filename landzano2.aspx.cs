@@ -5,6 +5,8 @@ using System.Web;
 using System.Web.UI;
 using System.Web.UI.WebControls;
 using System.IO;
+using BusinessObjects;
+using DatanTransfer;
 
 public partial class landzano2 : System.Web.UI.Page
 {
